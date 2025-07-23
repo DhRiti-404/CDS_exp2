@@ -4,6 +4,6 @@ Purpose:
 To understand different data types used in C++ and how to declare variables.
 Concepts Covered:
 
-Primitive data types: int, float, char, bool, double
-Type modifiers: long, short, unsigned, signed
-Variable initialization and scope
+* Primitive data types: int, float, char, bool, double
+* Type modifiers: long, short, unsigned, signed
+* Variable initialization and scope
