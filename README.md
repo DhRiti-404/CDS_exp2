@@ -45,7 +45,7 @@ This program demonstrates different **storage classes** in C++:
 ---
 
 ## Conclusion
-Through this experiment, students:
+Through this experiment :
 - Learn how different data types consume memory in C++
 - Understand the behavior and scope of various **storage classes**
 - Gain hands-on experience with input/output operations and memory handling
