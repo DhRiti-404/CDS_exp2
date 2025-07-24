@@ -1,13 +1,14 @@
 # Program on Data Types in C++
 
-## Tools Used
+## 🛠️ Tools Used
 - **Language:** C++
 - **Compiler:** g++ (GNU Compiler Collection)
 - **IDE:** VS Code
 
-## Theory
+## 📚 Theory
 
-### Topic Overview
+
+### 🔹 Topic Overview
 This experiment demonstrates:
 - The usage of different **primitive data types** in C++
 - How to measure **memory size** of variables using the `sizeof` operator
@@ -17,12 +18,12 @@ These programs help in understanding how variables are declared, how memory is m
 
 ---
 
-### Program 1: `exp2A.cpp` – Size of Primitive Data Types
+### 🔸 Program 1: `exp2A.cpp` – Size of Primitive Data Types
 This program:
 - Takes user input for different data types: `char`, `int`, `float`, `double`, `bool`, `long`, and `long long`
 - Displays the value and memory size (in bytes) for each using the `sizeof()` operator
 
-#### Algorithm:
+## 🧮 Algorithm
 1. Declare variables for each data type
 2. Take input from the user
 3. Use `sizeof()` to print the memory size of each variable
@@ -30,14 +31,14 @@ This program:
 
 ---
 
-### Program 2: `exp2B.cpp` – Storage Classes Demonstration
+### 🔸 Program 2: `exp2B.cpp` – Storage Classes Demonstration
 This program demonstrates different **storage classes** in C++:
 - `auto`: default for local variables
 - `register`: hints the compiler to store variable in CPU register
 - `static`: retains value across function calls
 - `extern`: declares a global variable accessible across files
 
-#### Algorithm:
+## 🧮 Algorithm
 1. Declare and initialize an `auto` and `register` variable
 2. Define a function with a `static` variable and call it twice
 3. Use a globally declared `extern` variable and print its value
